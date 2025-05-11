@@ -1,0 +1,2 @@
+# server_side_kotlin_micronaut_sample_4
+「MicronautでgRPCに入門！実践！サーバーサイドKotlin」で解説しているMicronautによるgRPC入門のクライアント側サンプルコードです。
