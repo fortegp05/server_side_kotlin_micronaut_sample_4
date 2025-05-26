@@ -10,9 +10,9 @@ gRPCのクライアント側サンプルコードとなります。
 
 サークル「aozora Project」にて頒布します。
 
-[//]: # (技術書典での頒布ページは[こちら]&#40;https://techbookfest.org/product/tWnq3dgYJhucbCK3p1iYz&#41;)
+技術書典での頒布ページは[こちら](https://techbookfest.org/product/uFq5iAcSbjDxbCrGFDurCF)
 
-[//]: # (BOOTHは[こちら]&#40;https://fortegp05.booth.pm/items/6218688&#41;)
+BOOTHは[こちら](https://fortegp05.booth.pm/items/6952884
 
 ※頒布開始は技術書典18が開幕してからになります
 
